@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Deyvis/Desktop/Arquivos/Tutoria%20ML/Dados/Exercicio_1/mlruns/0/4e2bd7e4098f4edaac1d1dbd430e1fcd/artifacts
+end_time: 1761775815489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e2bd7e4098f4edaac1d1dbd430e1fcd
+run_name: merciful-sloth-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761775815442
+status: 3
+tags: []
+user_id: Deyvis
